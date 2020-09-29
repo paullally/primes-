@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class Solution {
+public class sol {
 
     public static void main(String args[] ) throws Exception {
 
